@@ -1,2 +1,1 @@
-👋 Hey everyone, I'm Raimundo José Nepomuceno Silva®™ Open WORK®™ 👋
-👋 Oi, Meu Nome é Raimundo José Nepomuceno Silva,®™Disponivel para Trabalho®™ 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Josenepo.Josenepo" />
