@@ -10,7 +10,7 @@
  
  🔭 Atualmente, estou em busca do meu primeiro emprego como **Desenvolvedor**
  
- 🌱 Estou estudando**React, JavaScript, Node.JS**
+ 🌱 Estou estudando **React, JavaScript, Node.JS**
 
 💬 Me pergunte sobre **Node.js, React, JavaScript... ou qualquer outra coisa [aqui](https://github.com/Josenepo/Josenepo/issues)**
 
